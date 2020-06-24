@@ -1,0 +1,77 @@
+.phonesPage{
+    padding: 100px 0;
+}
+.productsTitle{
+    font-family: 'Permanent Marker', cursive;
+    padding: 0 0 50px 0;
+    text-align: center;
+    font-size: 50px;
+}
+.phones{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.phone{
+    box-sizing: border-box;
+    background-color: white;
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+    width: 350px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    transition: 1.5s;
+}
+.phone:hover{
+    transform: scale(1.2);
+    box-shadow: 18px 17px 0px -9px rgba(0,0,0,0.08);
+}
+.phone:hover .phone__title{
+    background-color: rgb(229, 240, 227);
+}
+
+.phone__top{
+    position: relative;
+    overflow: hidden;
+}
+.phone:hover .phone__btn{
+    transform: translate(0,0);
+}
+.phone__btn{
+    cursor: pointer;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 10px;
+    background-color: #A8CF45;
+    transform: translate(100%,100%);
+    transition:  1s;
+    border-top-left-radius: 10px;
+    outline: none;
+    border: 0;
+}
+.phone__btn:hover{
+    background-color: red;
+}
+.phone__btn i{
+    font-size: 40px;
+    color: white;
+}
+.phone__title{
+    padding: 25px;
+    font-weight: 600;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    transition: 1.5s;
+}
+
+.phone__title span{
+    color: green;
+    font-weight:700;
+}
+.phone img{
+    cursor: pointer;
+    margin-bottom: 80px;
+    width: 200px;
+}

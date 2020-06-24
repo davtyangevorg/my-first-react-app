@@ -1,0 +1,77 @@
+.product{
+    text-align: center;
+    padding: 100px;
+}
+.product__title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #1e1f88;
+    margin-bottom: 60px;
+}
+.product__inner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.product__box{
+    text-align: left;
+    max-width: 600px;
+}
+.product__box__title__made{
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    margin-bottom: 8px;
+    color: #6C7277;
+    letter-spacing: 7px;
+}
+.product__box__title__price{
+    font-size: 25px;
+    color: #1e1f88;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+.product__box__title{
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+.product__box__title__text{
+    font-weight: 700;
+    color: #717679;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.product__box__btn__back{
+    outline: none;
+    cursor: pointer;
+    background-color: white;
+    color: #0085eb;
+    border: 1px solid #0085eb;
+    border-radius: 8px;
+    font-size: 25px;
+    padding: 0px 10px 4px 10px;
+    font-weight: 700;
+    transition: 0.5s;
+    font-family: 'Oswald', sans-serif;
+    margin-right: 7px;
+}
+.product__box__btn__back:hover{
+    color: white;
+    background-color: #0085eb;
+}
+.product__box__btn__add{
+    outline: none;
+    cursor: pointer;
+    background-color: white;
+    color: #ebc000;
+    border: 1px solid #ebc000;
+    border-radius: 8px;
+    font-size: 25px;
+    padding: 0px 10px 4px 10px;
+    font-weight: 700;
+    transition: 0.5s;
+    font-family: 'Oswald', sans-serif;
+}
+.product__box__btn__add:hover{
+    color: white;
+    background-color: #ebc000;
+}

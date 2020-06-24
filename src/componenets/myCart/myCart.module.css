@@ -1,0 +1,109 @@
+.cart__title{
+    font-family: 'Permanent Marker', cursive;
+    padding: 100px 0 50px 0;
+    text-align: center;
+    font-size: 50px;
+}
+
+table{
+    width: 100%;
+}
+
+td{
+    text-align: center;
+}
+.headerTr td {
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    margin-bottom: 50px;
+}
+.bodyTr td{
+    font-size: 17px;
+    font-weight: 900;
+}
+.bodyTr img{
+    width: 90px;
+}
+.quantity button{
+    font-size: 15px;
+    height: 30px;
+    width: 30px;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    cursor: pointer;
+    outline: none;
+    transition: 0.5s;
+}
+.quantity button:hover{
+    background-color: black;
+    color: white;
+}
+.quantity span{
+    margin: 0 15px;
+    display: inline-block;
+    color: black;
+}
+.deleteBtn i{
+    cursor: pointer;
+    font-size: 35px;
+    color: tomato;
+}
+.totalCart{
+    text-align: right;
+    margin-right: 80px;
+    margin-top: 50px;
+}
+.totalCart button{
+    font-family: 'Oswald', sans-serif;
+    outline: none;
+    background-color: white;
+    border: 1px solid tomato;
+    border-radius: 5px;
+    color: tomato;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 8px 50px;
+    transition: 0.5s;
+    margin-bottom: 10px;
+}
+.totalCart button:hover{
+    cursor: pointer;
+    background-color: tomato;
+    color: white;
+}
+.totalCart div{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+    letter-spacing: 5px;
+}
+.totalCart span{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 900;
+    font-size: 23px;
+}
+.cart__line{
+    width: 100%;
+    height: 1px;
+    background-color: red;
+    margin-bottom: 50px;
+}
+.phones__cart{
+    margin-bottom: 50px;
+}
+.phones__cart div{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.videoGames__cart div{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
