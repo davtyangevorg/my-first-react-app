@@ -36,7 +36,7 @@ function App() {
           <div>
             <div className={style.footer}>
               <div className={style.container}>
-                  <div className={style.footer__text}>© 2020 shopforest.com lorem </div>
+                  <div className={style.footer__text}>vardan</div>
               </div>
             </div>
           </div>
