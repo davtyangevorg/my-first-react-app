@@ -8,7 +8,7 @@ const Homepage=(props)=>{
     
     const learnMore=()=>{
         (!editeMode) ? setEditMode(true) : setEditMode(false)
-    }
+    }           
 
     return(
         <div className={style.homepage}>

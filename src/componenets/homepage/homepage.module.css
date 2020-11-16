@@ -1,8 +1,13 @@
+.home{
+    
+}
 .homepage{
     padding: 90px 0;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    height: auto;
+    height: 675px;
 }
 .homepage__inner{
     max-width: 450px;
@@ -87,8 +92,8 @@
 .overlay{
     top: 0;
     left: 0;
-    bottom: 0;
-    right: 0;
+    height: 100%;
+    width: 100%;
     position: fixed;
     background-color: rgba(0,0,0,0.7);
 }
