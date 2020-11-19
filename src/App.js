@@ -36,7 +36,7 @@ function App() {
           <div>
             <div className={style.footer}>
               <div className={style.container}>
-                  <div className={style.footer__text}>overflow</div>
+                  <div className={style.footer__text}>over</div>
               </div>
             </div>
           </div>
