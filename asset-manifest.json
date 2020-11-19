@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/my-first-react-app/static/css/main.6b955846.chunk.css",
+    "main.js": "/my-first-react-app/static/js/main.9519f02a.chunk.js",
+    "main.js.map": "/my-first-react-app/static/js/main.9519f02a.chunk.js.map",
+    "runtime-main.js": "/my-first-react-app/static/js/runtime-main.eb64b6ba.js",
+    "runtime-main.js.map": "/my-first-react-app/static/js/runtime-main.eb64b6ba.js.map",
+    "static/js/2.fc4fa94e.chunk.js": "/my-first-react-app/static/js/2.fc4fa94e.chunk.js",
+    "static/js/2.fc4fa94e.chunk.js.map": "/my-first-react-app/static/js/2.fc4fa94e.chunk.js.map",
+    "index.html": "/my-first-react-app/index.html",
+    "precache-manifest.5ea20892602fcdfda942e79d8d0938b6.js": "/my-first-react-app/precache-manifest.5ea20892602fcdfda942e79d8d0938b6.js",
+    "service-worker.js": "/my-first-react-app/service-worker.js",
+    "static/css/main.6b955846.chunk.css.map": "/my-first-react-app/static/css/main.6b955846.chunk.css.map",
+    "static/js/2.fc4fa94e.chunk.js.LICENSE.txt": "/my-first-react-app/static/js/2.fc4fa94e.chunk.js.LICENSE.txt",
+    "static/media/homepage.png": "/my-first-react-app/static/media/homepage.f8a58435.png",
+    "static/media/loading.svg": "/my-first-react-app/static/media/loading.4fc700ed.svg",
+    "static/media/logo.png": "/my-first-react-app/static/media/logo.393eac12.png",
+    "static/media/product-1.png": "/my-first-react-app/static/media/product-1.d63d9eff.png",
+    "static/media/product-2.png": "/my-first-react-app/static/media/product-2.ad7ef891.png",
+    "static/media/product-3.png": "/my-first-react-app/static/media/product-3.d27ec2bc.png",
+    "static/media/product-4.png": "/my-first-react-app/static/media/product-4.d9ed7537.png",
+    "static/media/product-5.png": "/my-first-react-app/static/media/product-5.8f9a1f89.png",
+    "static/media/product-6.png": "/my-first-react-app/static/media/product-6.b49d1b7c.png",
+    "static/media/product-7.png": "/my-first-react-app/static/media/product-7.4c6ab223.png",
+    "static/media/product-8.png": "/my-first-react-app/static/media/product-8.d390282f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb64b6ba.js",
+    "static/js/2.fc4fa94e.chunk.js",
+    "static/css/main.6b955846.chunk.css",
+    "static/js/main.9519f02a.chunk.js"
+  ]
+}
